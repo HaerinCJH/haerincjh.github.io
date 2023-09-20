@@ -4,10 +4,21 @@
         <title>CJH的官方网站 Blog</title>
         <link>https://haerincjh.github.io/blog</link>
         <description>CJH的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[今天是星期二]]></title>
+            <link>https://haerincjh.github.io/blog/星期二</link>
+            <guid>https://haerincjh.github.io/blog/星期二</guid>
+            <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[以星期二为挑战的话题，也是人们在社交媒体上经常探讨的。对许多人而言，星期二代表的是工作和生活中的挑战，是如何应对和克服困难和压力的良机。在这一天，许多人需要面对繁忙的工作和压力，但同时也是攀登人生高峰的机会。]]></description>
+            <content:encoded><![CDATA[<p>以星期二为挑战的话题，也是人们在社交媒体上经常探讨的。对许多人而言，星期二代表的是工作和生活中的挑战，是如何应对和克服困难和压力的良机。在这一天，许多人需要面对繁忙的工作和压力，但同时也是攀登人生高峰的机会。</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>感悟</category>
+            <category>CJH</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://haerincjh.github.io/blog/welcome</link>
